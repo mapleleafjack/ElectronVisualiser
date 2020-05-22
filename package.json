@@ -13,5 +13,13 @@
     "electron": "^8.3.0",
     "fftjs": "0.0.4",
     "jquery": "^3.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapleleafjack/ElectronVisualiser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mapleleafjack/ElectronVisualiser/issues"
+  },
+  "homepage": "https://github.com/mapleleafjack/ElectronVisualiser#readme"
 }
