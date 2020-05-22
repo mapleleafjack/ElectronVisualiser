@@ -1,0 +1,17 @@
+{
+  "name": "electronvisualizer",
+  "version": "1.0.0",
+  "description": "electron test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.3.0",
+    "fftjs": "0.0.4",
+    "jquery": "^3.5.1"
+  }
+}
