@@ -1,5 +1,4 @@
-# ElectronVisualiser
-
+# FFT audio visualizer
 
 This is a simple example on how to use Electron and the WebAudio API to make audio visualizations.
 
